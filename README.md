@@ -13,7 +13,7 @@ Passionate Computer Scientist who loves exploring the infinite potential of the 
 ---  
 
 ## 🛠 Tech Stack  
-- **Languages:** Dart, C++, SQL, Java, Python (beginner)  
+- **Languages:** Dart, C++, SQL, Java 
 - **Frameworks:** Flutter  
 - **Tools & Platforms:** Git, VSCode, Firebase  
 
@@ -30,4 +30,4 @@ Passionate Computer Scientist who loves exploring the infinite potential of the 
 ## 📧 Contact Me  
 - [Email me](mailto:amistamichael@gmail.com)  
 - [LinkedIn](https://www.linkedin.com/in/michael-amista-980a26293/)
-- [Get my CV](https://drive.google.com/file/d/1ev1ip8jUrooOTj-4qpODxhrOWQy2jgAv/view?usp=sharing)
+- [Get my CV](https://drive.google.com/file/d/12GAPTMmcRekpSvRTueLnO-LBJ1LDEUJk/view?usp=sharing)

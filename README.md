@@ -8,7 +8,7 @@ Passionate Computer Scientist who loves exploring the infinite potential of the 
 
 ## 🎓 Education  
 - **Bachelor's Degree** in Computer Science @ University of Padova  
-- **Master's Degree (Ongoing)** in Computer Science @ University of Padova - major in Internet, Mobile and Security  
+- **Master's Degree** in Computer Science @ University of Padova - major in Internet, Mobile and Security  
 
 ---  
 
@@ -20,8 +20,8 @@ Passionate Computer Scientist who loves exploring the infinite potential of the 
 ---  
 
 ## 🌍 Interests  
-- Internet of Things  
-- Wireless networks  
+- Wireless networks
+- Internet of Things    
 - Mobile development  
 - Web and mobile usability  
 
@@ -30,4 +30,3 @@ Passionate Computer Scientist who loves exploring the infinite potential of the 
 ## 📧 Contact Me  
 - [Email me](mailto:amistamichael@gmail.com)  
 - [LinkedIn](https://www.linkedin.com/in/michael-amista-980a26293/)
-- [Get my CV](https://drive.google.com/file/d/12GAPTMmcRekpSvRTueLnO-LBJ1LDEUJk/view?usp=sharing)
